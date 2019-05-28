@@ -1,0 +1,9 @@
+C:\Users\jonal\source\repos\IDIApi\Direcciones\bin\Debug\netstandard2.0\Direcciones.deps.json
+C:\Users\jonal\source\repos\IDIApi\Direcciones\bin\Debug\netstandard2.0\Direcciones.dll
+C:\Users\jonal\source\repos\IDIApi\Direcciones\bin\Debug\netstandard2.0\Direcciones.pdb
+C:\Users\jonal\source\repos\IDIApi\Direcciones\obj\Debug\netstandard2.0\Direcciones.csprojAssemblyReference.cache
+C:\Users\jonal\source\repos\IDIApi\Direcciones\obj\Debug\netstandard2.0\Direcciones.csproj.CoreCompileInputs.cache
+C:\Users\jonal\source\repos\IDIApi\Direcciones\obj\Debug\netstandard2.0\Direcciones.AssemblyInfoInputs.cache
+C:\Users\jonal\source\repos\IDIApi\Direcciones\obj\Debug\netstandard2.0\Direcciones.AssemblyInfo.cs
+C:\Users\jonal\source\repos\IDIApi\Direcciones\obj\Debug\netstandard2.0\Direcciones.dll
+C:\Users\jonal\source\repos\IDIApi\Direcciones\obj\Debug\netstandard2.0\Direcciones.pdb

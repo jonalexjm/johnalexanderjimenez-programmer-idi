@@ -1,0 +1,9 @@
+C:\Users\jonal\source\repos\IDIApi\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\jonal\source\repos\IDIApi\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\jonal\source\repos\IDIApi\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\jonal\source\repos\IDIApi\Entidad\obj\Debug\netstandard2.0\Entidad.csprojAssemblyReference.cache
+C:\Users\jonal\source\repos\IDIApi\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jonal\source\repos\IDIApi\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\jonal\source\repos\IDIApi\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+C:\Users\jonal\source\repos\IDIApi\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\jonal\source\repos\IDIApi\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
